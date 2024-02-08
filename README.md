@@ -1,3 +1,3 @@
 # Demo Github
 
-Some Github desc
+Some Github description
